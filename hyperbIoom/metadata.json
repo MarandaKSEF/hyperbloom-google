@@ -1,0 +1,5 @@
+{
+  "name": "HYPERBLOOM",
+  "description": "A comprehensive digital farm assistant platform providing real-time weather forecasting, pest/disease alerts, livestock vaccination schedules, and an AI-powered agricultural learning hub.",
+  "requestFramePermissions": ["geolocation"]
+}
